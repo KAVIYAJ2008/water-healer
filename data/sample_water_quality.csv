@@ -1,0 +1,6 @@
+timestamp,water_body,pH,turbidity_NTU,temperature_C,tds_mg_L,status
+2026-10-20 09:00,Lake Sample,7.2,18,27.4,310,Before Treatment
+2026-10-20 10:00,Lake Sample,7.3,16,27.6,305,Before Treatment
+2026-10-20 11:00,Lake Sample,7.4,12,27.8,298,After Filtration
+2026-10-20 12:00,Lake Sample,7.4,10,28.0,295,After Filtration
+2026-10-20 13:00,Lake Sample,7.5,8,28.1,292,After Treatment
